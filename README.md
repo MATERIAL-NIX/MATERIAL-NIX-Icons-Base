@@ -24,7 +24,7 @@ Theme inspired By and aiming to adhere to Google's Material Design product icon 
 
 Icons are designed and developed by Adam Harley
 
-Official webpage: http://OnMyToDoList...co...
+Official webpage: OnMyToDoList...com
 
 ### Links
   * [Deviantart](http://le-3.deviantart.com/)
